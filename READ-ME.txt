@@ -1,0 +1,6 @@
+  =>  Template License : Read the LICENSE.txt file
+
+  =>  Template Author  : HTML Aleksandr Yanyuk
+
+  =>  Author Website   :  OptimumBuilders.github.io
+
